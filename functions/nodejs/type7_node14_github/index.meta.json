@@ -1,0 +1,16 @@
+{
+  "apiID": "create70196834__function_aadih2nzz4onu",
+  "apiName": "type7_node14_github",
+  "label": {
+    "zh_CN": "type7_node14_github",
+    "en_US": ""
+  },
+  "description": {
+    "zh_CN": "自定义函数",
+    "en_US": "Custom Function"
+  },
+  "longTaskMode": false,
+  "frontendSDKInvokable": true,
+  "input": [],
+  "output": []
+}
