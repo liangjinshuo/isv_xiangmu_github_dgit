@@ -1,0 +1,16 @@
+{
+  "apiID": "create70196834__function_aadih2mylrqfq",
+  "apiName": "cli_type7_golang",
+  "label": {
+    "zh_CN": "cli type 7 golang",
+    "en_US": "cli type 7 golang"
+  },
+  "description": {
+    "zh_CN": "自定义函数",
+    "en_US": "Custom Function"
+  },
+  "longTaskMode": false,
+  "frontendSDKInvokable": false,
+  "input": [],
+  "output": []
+}
