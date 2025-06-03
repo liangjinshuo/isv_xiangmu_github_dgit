@@ -1,0 +1,16 @@
+{
+  "apiID": "create70196834__function_aadih2nzz34cu",
+  "apiName": "type0_node14",
+  "label": {
+    "zh_CN": "type0_node14",
+    "en_US": ""
+  },
+  "description": {
+    "zh_CN": "自定义函数",
+    "en_US": "Custom Function"
+  },
+  "longTaskMode": false,
+  "frontendSDKInvokable": true,
+  "input": [],
+  "output": []
+}
